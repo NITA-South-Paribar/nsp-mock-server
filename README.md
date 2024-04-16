@@ -2,7 +2,7 @@
 
 Written by Pritam Paul [@IamPritamPaul]
 
-clone the repo
-install python
+clone the repo<br>
+install python<br>
 then requirements.txt by this command -> pip install -r .\requirements.txt
-then run the python file nsp-mock-server.py
+<br>then run the python file nsp-mock-server.py
