@@ -1,6 +1,6 @@
 # nsp-mock-server
 
-Written by Pritam Paul (@IamPritamPaul)
+Written by Pritam Paul [@IamPritamPaul]
 
 clone the repo
 install python
